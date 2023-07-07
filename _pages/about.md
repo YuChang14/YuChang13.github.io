@@ -23,7 +23,7 @@ I am pursuing a Master's degree in Computer Science at the University of Electro
 
 # 🔥 News
 - *2023.06*: &nbsp;🎉🎉  One paper is accepted by IEEE Transactions on Sustainable Energy.
-
+- *2023.05*: &nbsp;🎉🎉  Two papers are accepted by The 17th International Workshop on Semantic Evaluation, ACL 2023.
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSTE</div><img src='images/PAPER1.png' alt="sym" width="100%"></div></div>
@@ -35,7 +35,8 @@ I am pursuing a Master's degree in Computer Science at the University of Electro
 
 </div>
 </div>
-
+- [niceNLP at SemEval-2023 Task 10: Dual Model Alternate Pseudo-labeling Improves Your Predictions](https://github.com), **Yu Chang**, Yuxi Chen and Yanru Zhang, **ACL 2023 Workshop**
+- [Sea_and_Wine at SemEval-2023 Task 9: A Regression Model with Data Augmentation for Multilingual Intimacy Analysis](https://github.com), Yuxi Chen, **Yu Chang**, Yanqing Tao, and Yanru Zhang, **ACL 2023 Workshop**
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
