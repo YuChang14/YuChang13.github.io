@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yu Chang (常钰)"
-description              : "CS student in UESTC. Focusing on Multimodal."
+description              : "CS student in UESTC and AI intern in Baidu. Focusing on Multimodal."
 repository               : "YuChang14/YuChang14.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yu Chang (常钰)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "UESTC"
+  bio              : "UESTC and Baidu"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
