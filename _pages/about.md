@@ -46,6 +46,12 @@ I am pursuing a Master's degree in Computer Science at the University of Electro
 
 # 🎖 Honors and Awards
 
+- *2018.11*, 🥉 The National College Student Mathematics Competition (Non Mathematics Majors).
+- *2018.12*, 🥈 The Shaanxi Division of the National College Student Mathematical Modeling Competition.
+- *2019.03*, 🥈 The Mathematics Contest in Modeling.
+- *2019.11*, 🥇 The National College Student Mathematics Competition (Non Mathematics Majors).
+- *2020.03*, 🥈 The Mathematics Contest in Modeling.
+
 # 📖 Educations
 - *2021.09 - now*, Master, University of Electronic Science and Technology of China, Chengdu.
 - *2017.09 - 2021.06*, Undergraduate, Xi'an University of Posts and Telecommunications, Xi'an.
