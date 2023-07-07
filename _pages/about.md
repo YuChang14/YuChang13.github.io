@@ -35,8 +35,8 @@ I am pursuing a Master's degree in Computer Science at the University of Electro
 
 </div>
 </div>
-- [niceNLP at SemEval-2023 Task 10: Dual Model Alternate Pseudo-labeling Improves Your Predictions](https://github.com), **Yu Chang**, Yuxi Chen and Yanru Zhang, **ACL 2023 Workshop**
-- [Sea_and_Wine at SemEval-2023 Task 9: A Regression Model with Data Augmentation for Multilingual Intimacy Analysis](https://github.com), Yuxi Chen, **Yu Chang**, Yanqing Tao, and Yanru Zhang, **ACL 2023 Workshop**
+- <div class="badge">ACL 2023 Workshop</div> [niceNLP at SemEval-2023 Task 10: Dual Model Alternate Pseudo-labeling Improves Your Predictions](https://github.com), **Yu Chang**, Yuxi Chen and Yanru Zhang
+- <div class="badge">ACL 2023 Workshop</div> [Sea_and_Wine at SemEval-2023 Task 9: A Regression Model with Data Augmentation for Multilingual Intimacy Analysis](https://github.com), Yuxi Chen, **Yu Chang**, Yanqing Tao, and Yanru Zhang
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
