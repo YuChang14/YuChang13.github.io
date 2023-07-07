@@ -19,7 +19,7 @@ redirect_from:
 
 I am pursuing a Master's degree in Computer Science at the University of Electronic Science and Technology of China (UESTC). I am working as an Artificial Intelligence Algorithm Intern at Baidu. My research focuses on parameter-efficient fine-tuning (PEFT) methods and multimodal large language models (MLLM). 
 
-<span style="color: red; font-weight: bold;">I am currently seeking a Ph.D. position in Artificial Intelligence for the fall of 2024.</span> If you are looking for a passionate and self-driven Ph.D. candidate for research, please feel free to email me at <a href='chang812887117@gmail.com'>
+<span style="color: red; font-weight: bold;">I am currently seeking a Ph.D. position in Artificial Intelligence for the fall of 2024.</span> If you are looking for a passionate and self-driven Ph.D. candidate for research, please feel free to email me at <a href="mailto:chang812887117@gmail.com">chang812887117@gmail.com</a>.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
