@@ -27,6 +27,8 @@ I am pursuing a Master's degree in Computer Science at the University of Electro
 
 # 📝 Publications 
 
+<h2 id="Time Series Forecasting">📈 Time Series Forecasting</h2>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSTE</div><img src='images/PAPER1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -36,6 +38,8 @@ I am pursuing a Master's degree in Computer Science at the University of Electro
 
 </div>
 </div>
+
+<h2 id="Natural Language Processing">💬 Natural Language Processing</h2>
 
 - [niceNLP at SemEval-2023 Task 10: Dual Model Alternate Pseudo-labeling Improves Your Predictions](https://github.com), **Yu Chang**, Yuxi Chen, and Yanru Zhang, **ACL 2023 Workshop**.
 - [Sea_and_Wine at SemEval-2023 Task 9: A Regression Model with Data Augmentation for Multilingual Intimacy Analysis](https://github.com), Yuxi Chen, **Yu Chang**, Yanqing Tao, and Yanru Zhang, **ACL 2023 Workshop**.
